@@ -1,0 +1,94 @@
+.card { 
+	padding: 10 px;
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	border-radius:6px;
+}
+
+.card img {
+	width:300px;
+	border-radius:60px;
+	display:block;
+	margin-bottom:50px;
+	margin-right:20px;
+}
+
+.card h3 {
+	font size: 30px;
+}
+
+.équipe {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black ;
+	border-right: 1px solid black;
+	margin: 15px;	
+}
+
+.horaire {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin: 15px;	
+}
+.emplacement{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin: 15px;
+	
+}
+
+.équipe{
+background-color:#32a88d;
+border-radius: 0px;
+padding: 20px;
+margin-left: 20%;
+margin-right: 20%;
+box-shadow: 10px 10px 15px black;
+text-align: center;
+margin-top: 5%; 
+}
+.horaire{
+	background-color:#32a88d;
+border-radius: 0px;
+padding: 20px;
+margin-left: 20%;
+margin-right: 20%;
+box-shadow: 10px 10px 15px black;
+text-align: center;
+margin-top: 5%; 
+}
+
+.emplacement{
+background-color:#32a88d;
+border-radius: 0px;
+padding: 20px;
+margin-left: 20%;
+margin-right: 20%;
+box-shadow: 10px 10px 15px black;
+text-align: center;
+margin-top: 5%; 
+}
+
+
+
+.contacte{
+background-color:#32a88d;
+border-radius: 0px;
+padding: 20px;
+margin-left: 20%;
+margin-right: 20%;
+box-shadow: 10px 10px 15px black;
+text-align: center;
+margin-top: 5%; 
+}
+
+
+
+
+
+
